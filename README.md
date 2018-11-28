@@ -1,2 +1,2 @@
 # practice
-Practice repo
+Practicing Github 
